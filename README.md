@@ -20,8 +20,9 @@ uses Google's API CDN to source this.
 Browse <a href="demo">demo</a>. Open the browser's
 developer tools. Play with the reset and present buttons and the "nubbin"
 (small, blue, inverted pyramid) to adjust the relative sizes of the
-pink and blue table (built using <div>s) and watch the style of
-the <div> element with id "dv1" change as you make the adjustments.
+pink and blue table (built using <code>&lt;div&gt;</code>s)
+and watch the style of the <code>&lt;div&gt;</code> element with
+id "dv1" change as you make the adjustments.
 Add rows to the table by pressing the "+" button to verify that the
 new row is using the same styles as the first row.
 
