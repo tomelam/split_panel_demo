@@ -17,7 +17,7 @@ uses Google's API CDN to source this.
 
 ## How to understand this dynamic stylesheet demo
 
-Browse <a href="demo">demo</a>. Open the browser's
+Clone this repository. Browse <a href="demo">demo</a>. Open the browser's
 developer tools. Play with the reset and present buttons and the "nubbin"
 (small, blue, inverted pyramid) to adjust the relative sizes of the
 pink and blue table (built using <code>&lt;div&gt;</code>s)
